@@ -1,7 +1,9 @@
-[
-  {
-    "name": "Narek Stream",
-    "url": "https://github.com/Npsk698/CloudStream-MyExtension/tree/main/src/main",
-    "description": "Extension Fr By Narek"
-  }
-]
+{
+  "name": "Narek Repo",
+  "iconUrl": "https://raw.githubusercontent.com/Npsk698/CloudStream-MyExtension/main/Icons/RepoIcon.png",
+  "description": "Repo d'extensions FR by Narek",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Npsk698/CloudStream-MyExtension/main/plugins.json"
+  ]
+}
