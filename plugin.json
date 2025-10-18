@@ -1,0 +1,21 @@
+[
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Npsk698/CloudStream-MyExtension",
+    "fileSize": 12345,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+      "Narek"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "CoflixArt",
+    "description": "Extension Française pour Narek Stream",
+    "url": "https://raw.githubusercontent.com/Npsk698/CloudStream-MyExtension/refs/heads/main/coflix/src/main/NarekStream/com/Coflix/Coflix.kt",
+    "name": "Narek Stream"
+  }
+]
